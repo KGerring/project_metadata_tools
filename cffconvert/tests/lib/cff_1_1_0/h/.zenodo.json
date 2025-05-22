@@ -1,0 +1,16 @@
+{
+  "creators": [
+    {
+      "affiliation": "Springsteen",
+      "name": "Van Zandt, Steven"
+    },
+    {
+      "affiliation": "coverband",
+      "name": "van Zandt, Steven"
+    }
+  ],
+  "publication_date": "2018-01-16",
+  "title": "cffconvert",
+  "upload_type": "software",
+  "version": "1.0.0"
+}

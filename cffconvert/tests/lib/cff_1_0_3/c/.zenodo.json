@@ -1,0 +1,38 @@
+{
+  "creators": [
+    {
+      "affiliation": "Netherlands eScience Center",
+      "name": "Attema, Jisk",
+      "orcid": "0000-0002-0948-1176"
+    },
+    {
+      "affiliation": "Netherlands eScience Center",
+      "name": "Diblen, Faruk"
+    }
+  ],
+  "keywords": [
+    "visualization",
+    "big data",
+    "visual data analytics",
+    "multi-dimensional data"
+  ],
+  "license": {
+    "id": "Apache-2.0"
+  },
+  "publication_date": "2017-10-07",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.1003346",
+      "relation": "isSupplementedBy",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://github.com/NLeSC/spot",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    }
+  ],
+  "title": "spot",
+  "upload_type": "software",
+  "version": "0.1.0"
+}

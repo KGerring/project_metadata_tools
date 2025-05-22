@@ -1,0 +1,8 @@
+- id: somesy
+  name: somesy
+  description: Sync your metadata files with somesy
+  entry: somesy
+  args: ["sync"]
+  language: python
+  files: '^somesy\.toml|\.somesy\.toml|pyproject\.toml|package\.json|Project\.toml|cargo\.toml|fpm\.toml$'
+  pass_filenames: false
